@@ -1,11 +1,10 @@
-import { useState } from 'react'
+import LandingPage from './pages/LandingPage'
 
 function App() {
 
   return (
     <>
-     <h1>Welcome to My Real Time Collaboration Tool</h1>
-     <h3>Gonna Complete Frontend soon</h3>
+     <LandingPage/>
     </>
   )
 }
